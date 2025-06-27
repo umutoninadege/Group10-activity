@@ -1,10 +1,10 @@
 # Group10-activity
 ##Team Members
--1.Ishimwwe Amos -
--2.Umutoni Gloria -
--3.NiyomugabO nICE Kevin -
--4.Nshuti Dorothy -
--5.Umutoni Nadege -
+-1.Ishimwwe Amos 26247 -
+-2.Umutoni Gloria 26039 -
+-3.NiyomugabO nICE Kevin 26708-
+-4.Nshuti Dorothy 27129-
+-5.Umutoni Nadege 26609-
 
 
 ### 1. Student Grading system
