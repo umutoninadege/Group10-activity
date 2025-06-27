@@ -1,6 +1,10 @@
 # Group10-activity
+
 ### python programs Demo
+
 ### 1. Student Grading system
+
+-A Python program to input student name and marks, calculate the average, and display the student's information and average grade.
 
 *Code for student grade student calculator*
 
@@ -8,5 +12,10 @@
 
 
 ### 2. Text Iterator Application
-![Image](https://github.com/user-attachments/assets/b0a9fcad-45a6-48d0-b391-dd7f28917f1d)
+
+-A Python script that takes two text inputs, combines them, and then iterates through the combined text to display individual characters.
+
 *python files in the project directory*
+
+![Image](https://github.com/user-attachments/assets/b0a9fcad-45a6-48d0-b391-dd7f28917f1d)
+
