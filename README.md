@@ -1,6 +1,11 @@
 # Group10-activity
+##Team Members
+1.Ishimwwe Amos
+2.Umutoni Gloria
+3.NiyomugabO nICE Kevin
+4.Nshuti Dorothy
+5.Umutoni Nadege
 
-### python programs Demo
 
 ### 1. Student Grading system
 
